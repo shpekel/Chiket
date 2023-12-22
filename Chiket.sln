@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chiket", "Chiket\Chiket.csproj", "{F70945B4-833F-40DB-85BB-1ECD92B41770}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F70945B4-833F-40DB-85BB-1ECD92B41770}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F70945B4-833F-40DB-85BB-1ECD92B41770}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F70945B4-833F-40DB-85BB-1ECD92B41770}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F70945B4-833F-40DB-85BB-1ECD92B41770}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA95B5BD-19E4-4490-957A-B454F2038A31}
+	EndGlobalSection
+EndGlobal
